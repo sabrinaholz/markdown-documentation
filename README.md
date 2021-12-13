@@ -19,6 +19,18 @@
 
 </details>
 
+<details>
+<summary>Cheatsheet</summary>
+
+####Tabelle erstellen
+
+| Spalte 1 | Spalte 2 | Spalte 3 |
+| -------- | -------- | -------- |
+|Zelle 1   | Zelle 2  | Zelle 3  |
+|...       | ...      | ...      |
+
+</details>
+
 ### TO DO
 
 - [x] github repository (sabrinaholz/markdown-documentation)
@@ -31,12 +43,6 @@
 - [ ] Layout von [smda](https://(www.s-d-m-a.de)) übertragen
 
 
-### Tabelle erstellen
-
-| Spalte 1 | Spalte 2 | Spalte 3 |
-| -------- | -------- | -------- |
-|Zelle 1   | Zelle 2  | Zelle 3  |
-|...       | ...      | ...      |
 
 
 
